@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Coverage directory
+coverage/
+
+# Ignore test output
+test-output/
+
+# Ignore configuration files
+*.config.js
+*.config.mjs
+
+# Ignore package lock files (optional, based on your preference)
+package-lock.json
+yarn.lock
